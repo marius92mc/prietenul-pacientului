@@ -1,2 +1,2 @@
 # prietenul-pacientului
-1 Servicii online de orientare ?i interac?iune pentru servicii medicale publice 
+Servicii online de orientare si interactiune pentru servicii medicale publice 
